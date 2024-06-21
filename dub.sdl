@@ -1,0 +1,6 @@
+name "ditch"
+description "D Imports Those C Headers is an app designed to map C headers and generate D binding modules for them via ImportC."
+authors "EllipticBit" "LLC"
+copyright "Copyright © 2024, EllipticBit, LLC"
+license "BSL-1.0"
+dependency "sdlite" version="~>1.2.0"
